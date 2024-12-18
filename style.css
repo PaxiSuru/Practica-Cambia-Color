@@ -8,7 +8,7 @@ body {
     padding: 24px;
     height: 100vh;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #58cbc4;
+    background-color: #ffcfb3;
 }
 
 .flex-center{
@@ -47,5 +47,5 @@ button {
 }
 
 button:hover {
-    background-color: rgb(255, 198, 151);
+    background-color: rgb(255, 168, 151);
 }
